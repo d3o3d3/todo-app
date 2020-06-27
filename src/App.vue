@@ -1,5 +1,6 @@
 <template>
   <div id="app">
+    <h3>Bye Everybody</h3>
     <Comp1></Comp1>
   </div>
 </template>
